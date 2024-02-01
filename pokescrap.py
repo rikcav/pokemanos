@@ -9,13 +9,13 @@ import pyperclip
 import pandas as pd
 import time
 
-class TwitterScript():
+class PokePaletteScript():
     def __init__(self):
         chrome_options = Options()
         chrome_options.add_experimental_option("detach", True)
         self.driver = webdriver.Chrome(options=chrome_options)
 
-    def open_poke_pallete(self):
+    def open_poke_palette(self):
         self.driver.get("https://pokemonpalette.com/")
         self.driver.implicitly_wait(10)
 
