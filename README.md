@@ -1,6 +1,6 @@
 # Projeto de Classificação de Tipos de Pokémon
 
-## Participantes: Elison Mélo, José Henrique, Pedro Luiz, Rônald Macário
+## Participantes: [Elison Mélo](https://github.com/ElisonMartins), [José Henrique](https://github.com/rikcav), [Pedro Luiz](https://github.com/mightbehappyy), [Rônald Macário](https://github.com/RonaldMacario13)
 
 ### Introdução
 
